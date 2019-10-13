@@ -1,4 +1,4 @@
-![image](https://github.com/AliCemilcan/Java-Exercise-FIles/blob/master/Algorithms/HashMap.png)
+![image](https://github.com/AliCemilcan/Java-Exercise-FIles/blob/master/Algorithms/img/HashMap.png)
 
 ```Java
  public static void GetKeyValues() {
